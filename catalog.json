@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-13T16:28:01.054Z",
+  "generatedAt": "2026-09-13T16:59:41.563Z",
   "library": {
     "id": "lira",
     "name": "Lira",
@@ -862,5 +862,13 @@
         }
       ]
     }
+  ],
+  "_imageKeys": [
+    "banner.jpg",
+    "logo.png",
+    "authors/adem-demaci/books/gjarpijt-e-gjakut/cover.jpg",
+    "authors/ernest-koliqi/books/hija-e-maleve/cover.jpg",
+    "authors/ernest-koliqi/books/pasqyrat-e-narcizit/cover.jpg",
+    "authors/ernest-koliqi/books/tregtar-flamujsh/cover.jpg"
   ]
 }

@@ -17,3 +17,16 @@ Nëse jeni autori ose përfaqësuesi ligjor i autorit dhe dëshironi që përmba
 **info@lexoshqip.org**
 
 Ne do të heqim përmbajtjen tuaj sa më shpejt që të jetë e mundur pas marrjes së kërkesës.
+
+## Deployment (Backblaze B2)
+
+Çdo push në `main` sync automatikisht përmbajtjen në B2 bucket `lexoshqip-lira`.
+
+Para push, gjeneroni `catalog.json`:
+
+```bash
+cd ../web
+node scripts/generate-catalog.mjs ../lira
+```
+
+`catalog.json` është skedari që web app shkarkon gjatë build-it (1 request në vend të shumëfishtë).

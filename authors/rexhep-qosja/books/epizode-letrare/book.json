@@ -1,0 +1,28 @@
+{
+  "title": "Epizode letrare",
+  "epochId": "socialiste",
+  "isFeatured": false,
+  "tags": ["Kritikë Letrare", "Ese"],
+  "publicationYear": 1967,
+  "synopsis": "Vëllimi i parë i studimeve letrare të Rexhep Qosjas, botuar nga Rilindja në Prishtinë më 1967. Ese kritike dhe analiza letrare që e vendosën Qosjan si kritikun kryesor të letërsisë shqipe të Kosovës — me metodë të rreptë dhe gjuhë analitike të qartë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "freely-available",
+    "verification": "source-declared",
+    "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+    "takedown": {
+      "contact": "takedown@lexoshqip.org",
+      "sourceUrl": "https://books.flossk.org/2020/09/30/epizode-letrare-rexhep-qosja/"
+    },
+    "sources": [
+      {
+        "name": "FLOSSK — Platformë librash të digjitalizuar",
+        "url": "https://books.flossk.org/2020/09/30/epizode-letrare-rexhep-qosja/",
+        "note": "Botimi origjinal: Rilindja, Prishtinë 1967"
+      }
+    ]
+  }
+}

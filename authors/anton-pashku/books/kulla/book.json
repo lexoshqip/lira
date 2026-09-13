@@ -1,0 +1,28 @@
+{
+  "title": "Kulla",
+  "epochId": "socialiste",
+  "isFeatured": true,
+  "tags": ["Tregime", "Modernizëm"],
+  "publicationYear": 1968,
+  "synopsis": "Vëllim tregimesh i Anton Pashkut, botuar në Prishtinë më 1968 — ndër veprat e para të modernizmit shqiptar. Tregime të shkurtra me strukturë eliptike, personazhe të fragmentuara dhe atmosferë absurdiste që e vendosin Pashkun si figurën themelore të prozës eksperimentale shqipe. Gjuha e tij — e shkurtër, e ngarkuar dhe e rreptë — është antipodi i realizmit socialist të kohës.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "freely-available",
+    "verification": "source-declared",
+    "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+    "takedown": {
+      "contact": "takedown@lexoshqip.org",
+      "sourceUrl": "https://books.flossk.org/2020/09/30/kulla-anton-pashku/"
+    },
+    "sources": [
+      {
+        "name": "FLOSSK — Platformë librash të digjitalizuar",
+        "url": "https://books.flossk.org/2020/09/30/kulla-anton-pashku/",
+        "note": "Botimi origjinal: Rilindja, Prishtinë 1968"
+      }
+    ]
+  }
+}

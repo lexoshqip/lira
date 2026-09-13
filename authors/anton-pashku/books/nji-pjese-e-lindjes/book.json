@@ -1,0 +1,28 @@
+{
+  "title": "Nji pjesë e lindjes",
+  "epochId": "socialiste",
+  "isFeatured": false,
+  "tags": ["Tregime", "Modernizëm"],
+  "publicationYear": 1965,
+  "synopsis": "Vëllimi i parë i tregimeve të Anton Pashkut, botuar në Prishtinë më 1965. Tregime me frymë moderniste dhe gjuhë të kondensuar — hapat e parë të Pashkut drejt prozës eksperimentale që do ta bënte ndër autorët kryesorë të letërsisë shqipe të shekullit XX.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "freely-available",
+    "verification": "source-declared",
+    "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+    "takedown": {
+      "contact": "takedown@lexoshqip.org",
+      "sourceUrl": "https://books.flossk.org/2020/09/30/nji-pjese-e-lindjes-anton-pashku/"
+    },
+    "sources": [
+      {
+        "name": "FLOSSK — Platformë librash të digjitalizuar",
+        "url": "https://books.flossk.org/2020/09/30/nji-pjese-e-lindjes-anton-pashku/",
+        "note": "Botimi origjinal: Rilindja, Prishtinë 1965"
+      }
+    ]
+  }
+}

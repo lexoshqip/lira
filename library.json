@@ -1,0 +1,17 @@
+{
+  "id": "lira",
+  "name": "Lira",
+  "description": "Libra shqip të disponueshëm lirisht në internet — me politikë heqjeje me kërkesë brenda 7 ditësh pune.",
+  "accent": "#1a6b8b",
+  "brandColor": "#1a6b8b",
+  "maintainer": "LexoShqip",
+  "website": "https://lexoshqip.org",
+  "policy": "Librat në këtë koleksion gjenden lirisht të disponueshëm online nga burime të treta (p.sh. FLOSSK). Ne respektojmë të drejtat e titullarëve dhe heqim çdo material brenda 7 ditësh pune nga marrja e një kërkese të justifikuar.",
+  "contact": {
+    "email": "info@lexoshqip.org",
+    "takedownEmail": "takedown@lexoshqip.org"
+  },
+  "links": [
+    { "label": "FLOSSK — Platformë librash të digjitalizuar", "url": "https://books.flossk.org" }
+  ]
+}

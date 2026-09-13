@@ -1,0 +1,24 @@
+{
+  "title": "Gjarpijt e gjakut",
+  "epochId": "socialiste",
+  "isFeatured": true,
+  "tags": ["Prozë", "Klasike"],
+  "publicationYear": 1958,
+  "synopsis": "Romani debutues i Adem Demaçit dhe një nga librat më të diskutuar të letërsisë shqipe të viteve '50 — botuar në Prishtinë më 1958 te «Jeta e Re». Përmes historisë së dy familjeve që mbajnë peshën e një gjaku të vjetër, Demaçi e shpalos hakmarrjen si institut social që e bllokon jetën e malësisë, duke kundërshtuar me forcë traditën që e therë vetveten. I ndaluar menjëherë pas botimit, romani u bë pjesërisht arsyeja e burgosjes së autorit dhe sot konsiderohet themeluesi i prozës moderne të Kosovës.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "coverCredit": "Kopertina: LexoShqip (ripunim digjital)",
+  "rights": {
+    "license": "cc-by-sa",
+    "verification": "source-declared",
+    "sources": [
+      {
+        "name": "FLOSSK — Platforma e librave të digjitalizuar",
+        "url": "https://books.flossk.org/2020/09/17/gjarpijt-e-gjakut-adem-demaci/",
+        "note": "Digjitizim i publikuar me licencën CC BY-SA 4.0 (projekt i financuar nga BE); botimi origjinal: «Jeta e Re», Prishtinë 1958"
+      }
+    ]
+  }
+}

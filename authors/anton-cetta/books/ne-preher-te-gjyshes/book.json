@@ -1,0 +1,28 @@
+{
+  "title": "Ne prehër të gjyshes",
+  "epochId": "socialiste",
+  "isFeatured": false,
+  "tags": ["Folkllor", "Tregime Popullore"],
+  "publicationYear": 1955,
+  "synopsis": "Koleksion tregimesh popullore të mbledhura dhe transkriptuara nga Anton Çetta, botuar nga Rilindja në Prishtinë më 1955. Tregime të burimit gojor — përralla, legjenda dhe rrëfime nga gjiri i familjes kosovare — të ruajtura me gjuhë autentike dhe ndjenjë. Ndër veprat e para të mbledhjeve folkloristike të Kosovës.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "freely-available",
+    "verification": "source-declared",
+    "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+    "takedown": {
+      "contact": "takedown@lexoshqip.org",
+      "sourceUrl": "https://books.flossk.org/2020/09/17/ne-preher-te-gjyshes-anton-cetta/"
+    },
+    "sources": [
+      {
+        "name": "FLOSSK — Platformë librash të digjitalizuar",
+        "url": "https://books.flossk.org/2020/09/17/ne-preher-te-gjyshes-anton-cetta/",
+        "note": "Botimi origjinal: Rilindja, Prishtinë 1955"
+      }
+    ]
+  }
+}

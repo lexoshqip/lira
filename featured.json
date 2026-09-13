@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "count": 0,
+    "bookIds": []
+  },
+  "selectedBooks": {
+    "count": 0,
+    "bookIds": [],
+    "authorIds": []
+  },
+  "authors": {
+    "count": 0,
+    "authorIds": [],
+    "bookIds": []
+  }
+}

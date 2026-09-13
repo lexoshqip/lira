@@ -1,0 +1,28 @@
+{
+  "title": "Lulkuqet e gjakut",
+  "epochId": "socialiste",
+  "isFeatured": false,
+  "tags": ["Poezi"],
+  "publicationYear": 1966,
+  "synopsis": "Vëllimi poetik i Beqir Musliut, botuar nga Rilindja në Prishtinë më 1966. Poezi lirike me temë identitare dhe kombëtare, me gjuhë të pasur dhe ndjenjë të thellë — vepra debutuese e njërit nga poetët shqiptarë të Maqedonisë që do të linte gjurmë të qëndrueshme në letrat shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "freely-available",
+    "verification": "source-declared",
+    "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+    "takedown": {
+      "contact": "takedown@lexoshqip.org",
+      "sourceUrl": "https://books.flossk.org/2020/09/30/lulkuqet-e-gjakut-beqir-musliu/"
+    },
+    "sources": [
+      {
+        "name": "FLOSSK — Platformë librash të digjitalizuar",
+        "url": "https://books.flossk.org/2020/09/30/lulkuqet-e-gjakut-beqir-musliu/",
+        "note": "Botimi origjinal: Rilindja, Prishtinë 1966"
+      }
+    ]
+  }
+}

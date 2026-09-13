@@ -1,0 +1,28 @@
+{
+  "title": "Kanga e vërrinit",
+  "epochId": "socialiste",
+  "isFeatured": false,
+  "tags": ["Poezi"],
+  "publicationYear": 1954,
+  "synopsis": "Vëllimi i dytë poetik i Martin Camajt, botuar në Prishtinë më 1954. Poezi me frymë lirike dhe epike, të frymëzuara nga trashëgimia malësore gegërishte dhe kujtesa e komunitetit. Camaj zhvillon në këtë vëllim gjuhën e tij të veçantë — gegërishte të pasur dhe metafora origjinale — duke u bërë zëri poetik më i dallueshëm i brezit të tij.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "freely-available",
+    "verification": "source-declared",
+    "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+    "takedown": {
+      "contact": "takedown@lexoshqip.org",
+      "sourceUrl": "https://books.flossk.org/wp-content/uploads/2020/09/1954-martin-camaj-kanga-e-verrinit.pdf"
+    },
+    "sources": [
+      {
+        "name": "FLOSSK — Platformë librash të digjitalizuar",
+        "url": "https://books.flossk.org/wp-content/uploads/2020/09/1954-martin-camaj-kanga-e-verrinit.pdf",
+        "note": "Botimi origjinal: Mustafa Bakija, Prishtinë 1954"
+      }
+    ]
+  }
+}

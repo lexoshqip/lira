@@ -1,0 +1,866 @@
+{
+  "version": 2,
+  "generatedAt": "2026-09-13T16:28:01.054Z",
+  "library": {
+    "id": "lira",
+    "name": "Lira",
+    "description": "Libra shqip të disponueshëm lirisht në internet — me politikë heqjeje me kërkesë brenda 7 ditësh pune.",
+    "accent": "#1a6b8b",
+    "brandColor": "#1a6b8b",
+    "maintainer": "LexoShqip",
+    "website": "https://lexoshqip.org",
+    "policy": "Librat në këtë koleksion gjenden lirisht të disponueshëm online nga burime të treta (p.sh. FLOSSK). Ne respektojmë të drejtat e titullarëve dhe heqim çdo material brenda 7 ditësh pune nga marrja e një kërkese të justifikuar.",
+    "contact": {
+      "email": "info@lexoshqip.org",
+      "takedownEmail": "takedown@lexoshqip.org"
+    },
+    "links": [
+      {
+        "label": "FLOSSK — Platformë librash të digjitalizuar",
+        "url": "https://books.flossk.org"
+      }
+    ]
+  },
+  "epochs": [],
+  "collections": [
+    {
+      "id": "albaniana",
+      "title": "Albaniana",
+      "description": "Shkrimtarë dhe udhëtarë të huaj për Shqipërinë dhe shqiptarët — dëshmi të jashtme për kulturën tonë."
+    },
+    {
+      "id": "klasike-perkthyer",
+      "title": "Klasikët e Përkthyer",
+      "description": "Kryevepra universale të përkthyera në gjuhën shqipe — nga Homeri e Shekspiri te më të rejat."
+    },
+    {
+      "id": "femije",
+      "title": "Bota e Fëmijëve",
+      "description": "Libra për lexuesit më të vegjël — përralla, aventura dhe klasikë të përkthyer."
+    }
+  ],
+  "featured": {
+    "hero": {
+      "count": 0,
+      "bookIds": []
+    },
+    "selectedBooks": {
+      "count": 0,
+      "bookIds": [],
+      "authorIds": []
+    },
+    "authors": {
+      "count": 0,
+      "authorIds": [],
+      "bookIds": []
+    }
+  },
+  "authors": [
+    {
+      "name": "Adem Demaçi",
+      "dates": "1936–2018",
+      "born": 1936,
+      "died": 2018,
+      "bornPlace": "Gjakovë",
+      "diedPlace": "Tiranë",
+      "epochId": "socialiste",
+      "kind": "albanian",
+      "isFeatured": true,
+      "bio": "Shkrimtar, gazetar dhe aktivist i shquar i çështjes kombëtare — i njohur si «Babai i rezistencës» në Kosovë. Me romanin debutues «Gjarpijt e gjakut» (1958) u bë njëkohësisht zëri më i fortë i letërsisë reale shqipe të Kosovës dhe kritikuesi më i prerë i institutit të hakmarrjes. Për veprimtarinë e tij kombëtare kaloi rreth 28 vjet në burgjet jugosllave (1958–1990), duke u bërë simbol i qëndresës civile; pas daljes drejtoi Lëvizjen Popullore të Kosovës dhe u zgjodh kryetar i Partisë Parlamentare (1993–1998). Radio «Kosova e Lirë» i mbante transmetimet e tij të përditshme gjatë luftës. Vdiq në Tiranë më 26 korrik 2018.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Adem_Dema%C3%A7i",
+      "id": "adem-demaci",
+      "books": [
+        {
+          "title": "Gjarpijt e gjakut",
+          "epochId": "socialiste",
+          "isFeatured": true,
+          "tags": [
+            "Prozë",
+            "Klasike"
+          ],
+          "publicationYear": 1958,
+          "synopsis": "Romani debutues i Adem Demaçit dhe një nga librat më të diskutuar të letërsisë shqipe të viteve '50 — botuar në Prishtinë më 1958 te «Jeta e Re». Përmes historisë së dy familjeve që mbajnë peshën e një gjaku të vjetër, Demaçi e shpalos hakmarrjen si institut social që e bllokon jetën e malësisë, duke kundërshtuar me forcë traditën që e therë vetveten. I ndaluar menjëherë pas botimit, romani u bë pjesërisht arsyeja e burgosjes së autorit dhe sot konsiderohet themeluesi i prozës moderne të Kosovës.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "coverCredit": "Kopertina: LexoShqip (ripunim digjital)",
+          "rights": {
+            "license": "cc-by-sa",
+            "verification": "source-declared",
+            "sources": [
+              {
+                "name": "FLOSSK — Platforma e librave të digjitalizuar",
+                "url": "https://books.flossk.org/2020/09/17/gjarpijt-e-gjakut-adem-demaci/",
+                "note": "Digjitizim i publikuar me licencën CC BY-SA 4.0 (projekt i financuar nga BE); botimi origjinal: «Jeta e Re», Prishtinë 1958"
+              }
+            ]
+          },
+          "id": "adem-demaci--gjarpijt-e-gjakut",
+          "authorId": "adem-demaci",
+          "_files": [
+            "book.pdf",
+            "cover.jpg"
+          ]
+        },
+        {
+          "title": "Nëna Shegë e Pesë Gocat",
+          "epochId": "socialiste",
+          "isFeatured": false,
+          "tags": [
+            "Tregim",
+            "Fëmijë"
+          ],
+          "ageGroup": "6+",
+          "synopsis": "Tregim për fëmijë i Adem Demaçit — rrëfim i frymëzuar nga tradita e përrallës popullore shqiptare, me një nënë shegë dhe pesë gocat e saj. Vepra pasqyron anën e butë dhe poetike të Demaçit, larg prozës së tij të rëndë sociale — një dhuratë e rrallë për lexuesit e vegjël me gjuhë të gjallë dhe plot ngjyra.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në internet. Nëse titullari i të drejtave kërkon heqjen e librit, na kontaktoni dhe vepra hiqet brenda 7 ditëve pune.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": ""
+            },
+            "sources": []
+          },
+          "id": "adem-demaci--nena-shege-e-pese-gocat",
+          "authorId": "adem-demaci",
+          "_files": [
+            "book.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anton Çetta",
+      "dates": "1920–1995",
+      "born": 1920,
+      "died": 1995,
+      "bornPlace": "Shkrel, Malësi e Madhe",
+      "diedPlace": "Prishtinë",
+      "epochId": "socialiste",
+      "kind": "albanian",
+      "isFeatured": false,
+      "bio": "Folklorist, etnolog dhe njëri nga mbledhësit më të mëdhenj të traditës gojore shqiptare të Kosovës. I lindur në Shkrel, punoi dekada të tëra duke mbledhur, transkriptuar dhe botuar tregime popullore, këngë, legjenda dhe proverba nga e gjithë Kosova dhe viset shqiptare. Vepra e tij folkloristike — me qindra botimeve — është trashëgimia kryesore e studimeve të kulturës gojore shqiptare. Në vitin 1990 organizoi lëvizjen e pajtimit të gjaqeve — një prej aksioneve civile më të rëndësishme të historisë moderne shqiptare.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Anton_Çetta",
+      "id": "anton-cetta",
+      "books": [
+        {
+          "title": "Ne prehër të gjyshes",
+          "epochId": "socialiste",
+          "isFeatured": false,
+          "tags": [
+            "Folkllor",
+            "Tregime Popullore"
+          ],
+          "publicationYear": 1955,
+          "synopsis": "Koleksion tregimesh popullore të mbledhura dhe transkriptuara nga Anton Çetta, botuar nga Rilindja në Prishtinë më 1955. Tregime të burimit gojor — përralla, legjenda dhe rrëfime nga gjiri i familjes kosovare — të ruajtura me gjuhë autentike dhe ndjenjë. Ndër veprat e para të mbledhjeve folkloristike të Kosovës.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": "https://books.flossk.org/2020/09/17/ne-preher-te-gjyshes-anton-cetta/"
+            },
+            "sources": [
+              {
+                "name": "FLOSSK — Platformë librash të digjitalizuar",
+                "url": "https://books.flossk.org/2020/09/17/ne-preher-te-gjyshes-anton-cetta/",
+                "note": "Botimi origjinal: Rilindja, Prishtinë 1955"
+              }
+            ]
+          },
+          "id": "anton-cetta--ne-preher-te-gjyshes",
+          "authorId": "anton-cetta",
+          "_files": [
+            "book.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anton Pashku",
+      "dates": "1938–1995",
+      "born": 1938,
+      "died": 1995,
+      "bornPlace": "Gjakovë",
+      "diedPlace": "Prishtinë",
+      "epochId": "socialiste",
+      "kind": "albanian",
+      "isFeatured": true,
+      "bio": "Prozatori modernist kryesor i letërsisë shqipe të Kosovës — themelues i prozës eksperimentale dhe absurdiste shqipe. I lindur në Gjakovë, punoi si redaktor dhe gazetar në Prishtinë. Tregimi dhe drama e tij — me personazhe të fragmentuara, gjuhë eliptike dhe atmosferë kafkiane — e çliroi prozën kosovare nga realizmi socialist dhe e vendosi në dialog me letërsinë europiane bashkëkohore. «Oh» (1971), romani-novela i tij, konsiderohet kryevepra e modernizmit shqiptar.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Anton_Pashku",
+      "id": "anton-pashku",
+      "books": [
+        {
+          "title": "Kulla",
+          "epochId": "socialiste",
+          "isFeatured": true,
+          "tags": [
+            "Tregime",
+            "Modernizëm"
+          ],
+          "publicationYear": 1968,
+          "synopsis": "Vëllim tregimesh i Anton Pashkut, botuar në Prishtinë më 1968 — ndër veprat e para të modernizmit shqiptar. Tregime të shkurtra me strukturë eliptike, personazhe të fragmentuara dhe atmosferë absurdiste që e vendosin Pashkun si figurën themelore të prozës eksperimentale shqipe. Gjuha e tij — e shkurtër, e ngarkuar dhe e rreptë — është antipodi i realizmit socialist të kohës.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": "https://books.flossk.org/2020/09/30/kulla-anton-pashku/"
+            },
+            "sources": [
+              {
+                "name": "FLOSSK — Platformë librash të digjitalizuar",
+                "url": "https://books.flossk.org/2020/09/30/kulla-anton-pashku/",
+                "note": "Botimi origjinal: Rilindja, Prishtinë 1968"
+              }
+            ]
+          },
+          "id": "anton-pashku--kulla",
+          "authorId": "anton-pashku",
+          "_files": [
+            "book.pdf"
+          ]
+        },
+        {
+          "title": "Nji pjesë e lindjes",
+          "epochId": "socialiste",
+          "isFeatured": false,
+          "tags": [
+            "Tregime",
+            "Modernizëm"
+          ],
+          "publicationYear": 1965,
+          "synopsis": "Vëllimi i parë i tregimeve të Anton Pashkut, botuar në Prishtinë më 1965. Tregime me frymë moderniste dhe gjuhë të kondensuar — hapat e parë të Pashkut drejt prozës eksperimentale që do ta bënte ndër autorët kryesorë të letërsisë shqipe të shekullit XX.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": "https://books.flossk.org/2020/09/30/nji-pjese-e-lindjes-anton-pashku/"
+            },
+            "sources": [
+              {
+                "name": "FLOSSK — Platformë librash të digjitalizuar",
+                "url": "https://books.flossk.org/2020/09/30/nji-pjese-e-lindjes-anton-pashku/",
+                "note": "Botimi origjinal: Rilindja, Prishtinë 1965"
+              }
+            ]
+          },
+          "id": "anton-pashku--nji-pjese-e-lindjes",
+          "authorId": "anton-pashku",
+          "_files": [
+            "book.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beqir Musliu",
+      "dates": "1941–",
+      "born": 1941,
+      "bornPlace": "Tetovë",
+      "epochId": "socialiste",
+      "kind": "albanian",
+      "isFeatured": false,
+      "bio": "Poet shqiptar nga Maqedonia e Veriut, njëri nga zërat e shquar të lirikës shqipe të viteve 1960–1990. Vepra e tij poetike shquhet për ndjenjë të thellë identiteti kombëtar dhe gjuhë lirike të rafinuar. «Lulkuqet e gjakut» (1966) — vëllimi i tij i parë i rëndësishëm — e vendosi si figurë të brezit të ri të poezisë shqipe jashtë Shqipërisë komuniste.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Beqir_Musliu",
+      "id": "beqir-musliu",
+      "books": [
+        {
+          "title": "Lulkuqet e gjakut",
+          "epochId": "socialiste",
+          "isFeatured": false,
+          "tags": [
+            "Poezi"
+          ],
+          "publicationYear": 1966,
+          "synopsis": "Vëllimi poetik i Beqir Musliut, botuar nga Rilindja në Prishtinë më 1966. Poezi lirike me temë identitare dhe kombëtare, me gjuhë të pasur dhe ndjenjë të thellë — vepra debutuese e njërit nga poetët shqiptarë të Maqedonisë që do të linte gjurmë të qëndrueshme në letrat shqipe.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": "https://books.flossk.org/2020/09/30/lulkuqet-e-gjakut-beqir-musliu/"
+            },
+            "sources": [
+              {
+                "name": "FLOSSK — Platformë librash të digjitalizuar",
+                "url": "https://books.flossk.org/2020/09/30/lulkuqet-e-gjakut-beqir-musliu/",
+                "note": "Botimi origjinal: Rilindja, Prishtinë 1966"
+              }
+            ]
+          },
+          "id": "beqir-musliu--lulkuqet-e-gjakut",
+          "authorId": "beqir-musliu",
+          "_files": [
+            "book.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ernest Koliqi",
+      "dates": "1903–1975",
+      "born": 1903,
+      "died": 1975,
+      "bornPlace": "Shkodër",
+      "diedPlace": "Romë, Itali",
+      "epochId": "pavaresia",
+      "kind": "albanian",
+      "isFeatured": true,
+      "bio": "Novelisti dhe poeti më i shquar i prozës shqipe të mesluftërave — pionieri i tregimit modern shqip. I shkolluar në kolegjin jezuit të Shkodrës dhe më pas në Universitetin e Padovës ku mori doktoratë në letërsi, Koliqi solli frymën e novelistikës italiane në letrat shqipe. Vëllimet «Hija e maleve» (1929), «Tregtar flamujsh» (1935) dhe «Pasqyrat e Narcizit» (1936) e vendosën si themelues të prozës artistike shqipe. Gjatë Luftës së Dytë Botërore mbajti poste politike nën pushtimin italian, çka e detyroi të emigronte pas 1944 në Itali, ku vazhdoi veprimtarinë letrare dhe akademike deri në vdekje.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Ernest_Koliqi",
+      "id": "ernest-koliqi",
+      "books": [
+        {
+          "title": "Hija e maleve",
+          "epochId": "pavaresia",
+          "isFeatured": true,
+          "tags": [
+            "Tregime",
+            "Prozë",
+            "Shkodër"
+          ],
+          "publicationYear": 1929,
+          "synopsis": "Vëllimi i parë i tregimeve të Ernest Koliqit, botuar në Shkodër në 1929 — tabloja e jetës shkodrane me gjuhë të rafinuar dhe psikologji të brendshme. Koliqi portretizon njerëz, zakoneve dhe traditat e veriut shqiptar me empati dhe art të lartë letrar. «Hija e maleve» vendosi bazat e prozës moderne shkodrane dhe shënoi ardhjen e një zëri të ri, të pjekur dhe shumë personal në letërsitë shqipe.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në internet. Nëse titullari i të drejtave kërkon heqjen e librit, na kontaktoni dhe vepra hiqet brenda 7 ditëve pune.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": ""
+            }
+          },
+          "id": "ernest-koliqi--hija-e-maleve",
+          "authorId": "ernest-koliqi",
+          "_files": [
+            "book.pdf",
+            "cover.jpg"
+          ]
+        },
+        {
+          "title": "Kangëlet e Rilindjes",
+          "epochId": "pavaresia",
+          "isFeatured": false,
+          "tags": [
+            "Poezi",
+            "Patriotike",
+            "Rilindja"
+          ],
+          "publicationYear": 1959,
+          "synopsis": "Vëllim poetik i Ernest Koliqit botuar në emigracion në Romë më 1959, i frymëzuar nga Rilindja Kombëtare shqiptare dhe heroizmi i Skënderbeut. Koliqi i kthehet temave historike dhe patriotike duke i trajtuar me gjuhën e poetit të pjekur të formuar në traditën italiane.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "metadata-only",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në internet. Nëse titullari i të drejtave kërkon heqjen e librit, na kontaktoni dhe vepra hiqet brenda 7 ditëve pune.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": ""
+            }
+          },
+          "id": "ernest-koliqi--kangelet-e-rilindjes",
+          "authorId": "ernest-koliqi"
+        },
+        {
+          "title": "Pasqyrat e Narçizit",
+          "epochId": "pavaresia",
+          "isFeatured": false,
+          "tags": [
+            "Prozë",
+            "Tregime",
+            "Psikologjike"
+          ],
+          "publicationYear": 1936,
+          "synopsis": "Vëllimi i tretë tregimtar i Ernest Koliqit, botuar në Tiranë më 1936 — vepra e pjekurisë artistike para largimit nga Shqipëria. Titullore, «Pasqyrat e Narçizit» eksploron narcizmin dhe vetëperceptimin njerëzor; tregimet e tjera vazhdojnë thellimin psikologjik të «Tregtar flamujsh» me portrete komplekse të botës shqiptare ndërlufëtare.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në internet. Nëse titullari i të drejtave kërkon heqjen e librit, na kontaktoni dhe vepra hiqet brenda 7 ditëve pune.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": ""
+            }
+          },
+          "id": "ernest-koliqi--pasqyrat-e-narcizit",
+          "authorId": "ernest-koliqi",
+          "_files": [
+            "book.pdf",
+            "cover.jpg"
+          ]
+        },
+        {
+          "title": "Shija e bukës së mbrume",
+          "epochId": "pavaresia",
+          "isFeatured": false,
+          "tags": [
+            "Roman",
+            "Prozë",
+            "Nostalgjia",
+            "Emigracion"
+          ],
+          "publicationYear": 1960,
+          "synopsis": "Romani i vetëm i Ernest Koliqit, botuar në Romë më 1960 — vepra e pjekurisë së tij në emigracion. Titulli — «shija e bukës së brumosur» — është metaforë e atdheut të humbur dhe nostalgisë për Shkodrën e fëmijërisë. Koliqi ndërthur kujtimet personale me reflektimin mbi identitetin shqiptar, fenë dhe traditën në botën e larguar prej tij përgjithmonë.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "metadata-only",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në internet. Nëse titullari i të drejtave kërkon heqjen e librit, na kontaktoni dhe vepra hiqet brenda 7 ditëve pune.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": ""
+            }
+          },
+          "id": "ernest-koliqi--shija-e-bukes-se-mbrume",
+          "authorId": "ernest-koliqi"
+        },
+        {
+          "title": "Tregtar flamujsh",
+          "epochId": "pavaresia",
+          "isFeatured": false,
+          "tags": [
+            "Prozë",
+            "Tregime",
+            "Modernizëm"
+          ],
+          "publicationYear": 1935,
+          "synopsis": "Vëllimi i dytë tregimtar i Koliqit, botuar në Tiranë më 1935 — kulmi i pjekurisë së tij artistike. Tregimet e këtij vëllimi janë më psikologjike dhe më moderne se «Hija e maleve»: portrete njerëzish të zhytur në kontradikat e botës së re shqiptare mes traditës dhe modernitetit. Titullore tregohet historia e tregëtarit të flamujve — metaforë e identitetit kombëtar.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në internet. Nëse titullari i të drejtave kërkon heqjen e librit, na kontaktoni dhe vepra hiqet brenda 7 ditëve pune.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": ""
+            }
+          },
+          "id": "ernest-koliqi--tregtar-flamujsh",
+          "authorId": "ernest-koliqi",
+          "_files": [
+            "book.pdf",
+            "cover.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hivzi Sulejmani",
+      "dates": "1922–2010",
+      "born": 1922,
+      "died": 2010,
+      "bornPlace": "Gjakovë",
+      "diedPlace": "Prishtinë",
+      "epochId": "socialiste",
+      "kind": "albanian",
+      "isFeatured": false,
+      "bio": "Prozator dhe poet kosovar, ndër figurat themeluese të letërsisë shqipe të Kosovës pas Luftës. I lindur në Gjakovë, punoi si gazetar dhe redaktor gjatë gjithë jetës; vepra e tij letrare — tregime, romane dhe poezi — pasqyron botën kosovare me realizëm dhe ndjenjë. Kontributi i tij për ngritjen e institucioneve kulturore shqiptare në Kosovë gjatë periudhës jugosllave mbetet i rëndësishëm.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Hivzi_Sulejmani",
+      "id": "hivzi-sulejmani",
+      "books": [
+        {
+          "title": "Era dhe kolona",
+          "epochId": "socialiste",
+          "isFeatured": false,
+          "tags": [
+            "Poezi"
+          ],
+          "publicationYear": 1959,
+          "synopsis": "Vëllim poetik i Hivzi Sulejmanit, botuar nga Rilindja në Prishtinë më 1959. Poezi lirike dhe reflektuese me temë njerëzore dhe shoqërore, nga njëri nga shkrimtarët themelues të letërsisë shqipe të Kosovës pas Luftës së Dytë Botërore.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": "https://books.flossk.org/2020/10/26/era-dhe-kolona/"
+            },
+            "sources": [
+              {
+                "name": "FLOSSK — Platformë librash të digjitalizuar",
+                "url": "https://books.flossk.org/2020/10/26/era-dhe-kolona/",
+                "note": "Botimi origjinal: Rilindja, Prishtinë 1959"
+              }
+            ]
+          },
+          "id": "hivzi-sulejmani--era-dhe-kolona",
+          "authorId": "hivzi-sulejmani",
+          "_files": [
+            "book.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lasgush Poradeci",
+      "dates": "1899–1987",
+      "born": 1899,
+      "died": 1987,
+      "bornPlace": "Pogradec",
+      "diedPlace": "Tiranë",
+      "epochId": "pavaresia",
+      "kind": "albanian",
+      "isFeatured": true,
+      "altNames": [
+        "Llazar Gusho"
+      ],
+      "bio": "Poeti më i madh lirik i letërsisë shqipe — «Poeti i Liqenit» siç e quajtën bashkëkohësit. I lindur në Pogradec pranë liqenit të Ohrit, Lasgushi krijoi një poezi të rrallë: muzikale, mistike dhe plot bukuri natyrore. Vëllimet e tij «Vallja e yjve» (1933) dhe «Ylli i zemrës» (1937) shënuan kulmin e lirikës shqipe të shekullit XX. Pas Luftës jetoi i izoluar nga regjimi, por mbeti simbol i puritetit poetik dhe shpirtit të lirë.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Lasgush_Poradeci",
+      "id": "lasgush-poradeci",
+      "books": [
+        {
+          "title": "Vallja e yjve",
+          "epochId": "pavaresia",
+          "isFeatured": true,
+          "tags": [
+            "Poezi",
+            "Lirikë",
+            "Natyrë"
+          ],
+          "publicationYear": 1933,
+          "synopsis": "Vëllimi i parë dhe kryesor i Lasgush Poradecit — poezi lirike me frymë mistike dhe muzikalitet të pashoq. «Vallja e yjve» vendosi Lasgushin si poetin e madh lirik të letërsisë shqipe: imazhe të liqenit, natyrës dhe qiellit të natës të shkrira me ndjenjën shpirtërore dhe dashurinë. Botuar në Bukuresht në 1933, ky vëllim mbetet kulmi i lirikës shqipe të shekullit XX.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "metadata-only",
+          "rights": {
+            "license": "unknown",
+            "verification": "juridical",
+            "notes": "Autori vdiq në 1987 — i mbrojtur deri në 2057 sipas ligjit evropian 70 vjet pas vdekjes."
+          },
+          "id": "lasgush-poradeci--vallja-e-yjve",
+          "authorId": "lasgush-poradeci"
+        }
+      ]
+    },
+    {
+      "name": "Martin Camaj",
+      "dates": "1925–1992",
+      "born": 1925,
+      "died": 1992,
+      "bornPlace": "Temal, Dukagjin",
+      "diedPlace": "Munih",
+      "epochId": "socialiste",
+      "kind": "albanian",
+      "isFeatured": true,
+      "bio": "Poet, prozator dhe gjuhëtar nga Dukagjini — njëri nga zërat më origjinalë dhe më të pavarur të letërsisë shqipe të shekullit XX. I lindur në Temal të Dukagjinit, studioi letërsi në Romë dhe gjuhësi në Munih, ku u bë profesor universitar. Duke jetuar jashtë Shqipërisë komuniste, Camaj shkroi lirshëm dhe me një gjuhë gegërishte arkaike që e bëri stilin e tij unik — larg realizmit socialist dhe larg mërzisë së diasporës konformiste. Vepra e tij — nga poemat e hershme të Kosovës deri te proza eksperimentale — mbetet ndër kontributet më të çmuara të letërsisë shqipe jashtë atdheut.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Martin_Camaj",
+      "id": "martin-camaj",
+      "books": [
+        {
+          "title": "Kanga e vërrinit",
+          "epochId": "socialiste",
+          "isFeatured": false,
+          "tags": [
+            "Poezi"
+          ],
+          "publicationYear": 1954,
+          "synopsis": "Vëllimi i dytë poetik i Martin Camajt, botuar në Prishtinë më 1954. Poezi me frymë lirike dhe epike, të frymëzuara nga trashëgimia malësore gegërishte dhe kujtesa e komunitetit. Camaj zhvillon në këtë vëllim gjuhën e tij të veçantë — gegërishte të pasur dhe metafora origjinale — duke u bërë zëri poetik më i dallueshëm i brezit të tij.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": "https://books.flossk.org/wp-content/uploads/2020/09/1954-martin-camaj-kanga-e-verrinit.pdf"
+            },
+            "sources": [
+              {
+                "name": "FLOSSK — Platformë librash të digjitalizuar",
+                "url": "https://books.flossk.org/wp-content/uploads/2020/09/1954-martin-camaj-kanga-e-verrinit.pdf",
+                "note": "Botimi origjinal: Mustafa Bakija, Prishtinë 1954"
+              }
+            ]
+          },
+          "id": "martin-camaj--kanga-e-verrinit",
+          "authorId": "martin-camaj",
+          "_files": [
+            "book.pdf"
+          ]
+        },
+        {
+          "title": "Nji fyell ndër male",
+          "epochId": "socialiste",
+          "isFeatured": false,
+          "tags": [
+            "Poezi"
+          ],
+          "publicationYear": 1953,
+          "synopsis": "Vëllimi i parë poetik i Martin Camajt, botuar në Prishtinë më 1953. Poezi lirike me temë malësore dhe ndjenjë të thellë vendëse — frymëzuara nga peizazhi i Dukagjinit dhe tradita e këngës popullore gegërishte. Gjuha e Camajt — e pastër, arkaike dhe muzikore — del e formuar që në debutimin e tij.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": "https://books.flossk.org/2020/09/30/nji-fyell-nder-male-martin-camaj/"
+            },
+            "sources": [
+              {
+                "name": "FLOSSK — Platformë librash të digjitalizuar",
+                "url": "https://books.flossk.org/2020/09/30/nji-fyell-nder-male-martin-camaj/",
+                "note": "Botimi origjinal: Mustafa Bakija, Prishtinë 1953"
+              }
+            ]
+          },
+          "id": "martin-camaj--nji-fyell-nder-male",
+          "authorId": "martin-camaj",
+          "_files": [
+            "book.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mitrush Kuteli",
+      "dates": "1907–1967",
+      "born": 1907,
+      "died": 1967,
+      "bornPlace": "Përmet",
+      "diedPlace": "Tiranë",
+      "epochId": "pavaresia",
+      "kind": "albanian",
+      "isFeatured": true,
+      "altNames": [
+        "Dhimitër Pasko"
+      ],
+      "bio": "Prozator, poet dhe përkthyes — mjeshtër i tregimit shqiptar dhe stilist i rrallë. Kuteli kombinoi sensibilitetin modern me traditën gojore shqiptare, duke krijuar tregime të pasura me frymë popullore dhe pjekuri artistike. Vepra e tij «Tregime të moçme shqiptare» është ndër koleksionet letrare më të dashura nga lexuesit shqiptarë. U burgos nga regjimi komunist dhe jeta e tij u shënua nga persekutimi, por u kthye të shkruajë deri në fund.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Mitrush_Kuteli",
+      "id": "mitrush-kuteli",
+      "books": [
+        {
+          "title": "Tregime të moçme shqiptare",
+          "epochId": "pavaresia",
+          "isFeatured": true,
+          "tags": [
+            "Tregime",
+            "Folklor",
+            "Prozë artistike"
+          ],
+          "publicationYear": 1938,
+          "synopsis": "Koleksioni i famshëm i tregimeve të Mitrush Kutelit — histori të frymëzuara nga legjendat, baladat dhe tradita gojore shqiptare, të rindërtuara me art të lartë letrar. Kuteli i jep jetë personazheve të moçme dhe ngjarjeve legjendare me gjuhë poetike dhe ndjenjë të thellë për traditën. Ndër veprat më të dashura të prozës shqipe, «Tregime të moçme» kaloi brez pas brezi.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "metadata-only",
+          "rights": {
+            "license": "unknown",
+            "verification": "juridical",
+            "notes": "Autori vdiq në 1967 — i mbrojtur deri në 2037 sipas ligjit evropian 70 vjet pas vdekjes."
+          },
+          "id": "mitrush-kuteli--tregime-te-mocme-shqiptare",
+          "authorId": "mitrush-kuteli"
+        }
+      ]
+    },
+    {
+      "name": "Rexhep Hoxha",
+      "dates": "1929–2006",
+      "born": 1929,
+      "died": 2006,
+      "bornPlace": "Prishtinë",
+      "diedPlace": "Prishtinë",
+      "epochId": "socialiste",
+      "kind": "albanian",
+      "isFeatured": false,
+      "bio": "Poet dhe prozator kosovar i brezit themelues të letërsisë shqipe të Kosovës pas Luftës. Punoi si gazetar dhe redaktor në Prishtinë; vepra e tij poetike dhe tregimtare pasqyron peizazhin, njerëzit dhe shpirtin e Kosovës me gjuhë të thjeshtë dhe ndjenjë autentike. Kontributi i tij ndaj ndërtimit të kulturës letrare shqiptare në Kosovë gjatë viteve 1950–1960 mbetet i rëndësishëm.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Rexhep_Hoxha",
+      "id": "rexhep-hoxha",
+      "books": [
+        {
+          "title": "Lugjet e verdha",
+          "epochId": "socialiste",
+          "isFeatured": false,
+          "tags": [
+            "Poezi"
+          ],
+          "publicationYear": 1959,
+          "synopsis": "Vëllim poetik i Rexhep Hoxhës, botuar nga Rilindja në Prishtinë më 1959. Poezi lirike me peizazhe kosovare dhe ndjenjë njerëzore autentike — vepra e pjekurisë së hershme të njërit nga poetët e brezit themelues të letërsisë shqipe të Kosovës.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": "https://books.flossk.org/2020/10/23/lugjet-e-verdha/"
+            },
+            "sources": [
+              {
+                "name": "FLOSSK — Platformë librash të digjitalizuar",
+                "url": "https://books.flossk.org/2020/10/23/lugjet-e-verdha/",
+                "note": "Botimi origjinal: Rilindja, Prishtinë 1959"
+              }
+            ]
+          },
+          "id": "rexhep-hoxha--lugjet-e-verdha",
+          "authorId": "rexhep-hoxha",
+          "_files": [
+            "book.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rexhep Qosja",
+      "dates": "1936–",
+      "born": 1936,
+      "bornPlace": "Pllavë, Has",
+      "epochId": "socialiste",
+      "kind": "albanian",
+      "isFeatured": false,
+      "bio": "Historiani letrar, kritiku dhe eseisti kryesor i letërsisë shqipe të Kosovës — figura intelektuale dominuese e kulturës kosovare të gjysmës së dytë të shekullit XX. Autori i «Historisë së letërsisë shqipe» në tre vëllime dhe i dhjetëra studimeve kritike, Qosja ndërtoi metodologjinë e studimit të letërsisë shqipe në Kosovë. Eseistika e tij politike dhe kulturore — shpesh kontraverse — e bëri njërin nga intelektualët publik më të diskutuar të hapësirës shqiptare.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Rexhep_Qosja",
+      "id": "rexhep-qosja",
+      "books": [
+        {
+          "title": "Epizode letrare",
+          "epochId": "socialiste",
+          "isFeatured": false,
+          "tags": [
+            "Kritikë Letrare",
+            "Ese"
+          ],
+          "publicationYear": 1967,
+          "synopsis": "Vëllimi i parë i studimeve letrare të Rexhep Qosjas, botuar nga Rilindja në Prishtinë më 1967. Ese kritike dhe analiza letrare që e vendosën Qosjan si kritikun kryesor të letërsisë shqipe të Kosovës — me metodë të rreptë dhe gjuhë analitike të qartë.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": "https://books.flossk.org/2020/09/30/epizode-letrare-rexhep-qosja/"
+            },
+            "sources": [
+              {
+                "name": "FLOSSK — Platformë librash të digjitalizuar",
+                "url": "https://books.flossk.org/2020/09/30/epizode-letrare-rexhep-qosja/",
+                "note": "Botimi origjinal: Rilindja, Prishtinë 1967"
+              }
+            ]
+          },
+          "id": "rexhep-qosja--epizode-letrare",
+          "authorId": "rexhep-qosja",
+          "_files": [
+            "book.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sinan Hasani",
+      "dates": "1922–1986",
+      "born": 1922,
+      "died": 1986,
+      "bornPlace": "Suharekë",
+      "diedPlace": "Beograd",
+      "epochId": "socialiste",
+      "kind": "albanian",
+      "isFeatured": false,
+      "bio": "Shkrimtar dhe politikan kosovar — njëri nga figurat e brezit të parë të letërsisë shqipe të Kosovës pas Luftës së Dytë Botërore. Punoi si gazetar dhe funksionar i lartë; vepra e tij letrare pasqyron jetën dhe transformimet sociale të Kosovës në vitet 1950. «Rrushi ka nisë me u pjekë» (1957) është ndër novelat e para të prozës realiste kosovare.",
+      "wikipedia": "https://sq.wikipedia.org/wiki/Sinan_Hasani",
+      "id": "sinan-hasani",
+      "books": [
+        {
+          "title": "Rrushi ka nisë me u pjekë",
+          "epochId": "socialiste",
+          "isFeatured": false,
+          "tags": [
+            "Roman",
+            "Realist"
+          ],
+          "publicationYear": 1957,
+          "synopsis": "Romani i Sinan Hasanit, botuar në Prishtinë më 1957 — ndër romanet e para të letërsisë realiste shqipe të Kosovës. Vepra pasqyron transformimet sociale dhe ekonomike të Kosovës në vitet e para të pasluftës, me personazhe të thella dhe peizazh të gjallë rural. Stil realist i qartë dhe narrativë e rrjedhshme.",
+          "language": "sq",
+          "accessType": "full",
+          "channel": "main",
+          "availability": "full-text",
+          "rights": {
+            "license": "freely-available",
+            "verification": "source-declared",
+            "notes": "Gjendet lirisht në FLOSSK nën CC BY-SA 4.0. Nëse titullari i të drejtave kërkon heqjen, na kontaktoni.",
+            "takedown": {
+              "contact": "takedown@lexoshqip.org",
+              "sourceUrl": "https://books.flossk.org/2020/10/23/rrushi-ka-nise-me-u-pjeke/"
+            },
+            "sources": [
+              {
+                "name": "FLOSSK — Platformë librash të digjitalizuar",
+                "url": "https://books.flossk.org/2020/10/23/rrushi-ka-nise-me-u-pjeke/",
+                "note": "Botimi origjinal: Miladin Popoviq, Prishtinë 1957"
+              }
+            ]
+          },
+          "id": "sinan-hasani--rrushi-ka-nise-me-u-pjeke",
+          "authorId": "sinan-hasani",
+          "_files": [
+            "book.pdf"
+          ]
+        }
+      ]
+    }
+  ]
+}
